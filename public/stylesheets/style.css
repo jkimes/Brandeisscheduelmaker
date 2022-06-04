@@ -1,0 +1,13 @@
+body {
+  /* padding: 50px; */
+  font: 20px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: url('https://www.brandeis.edu/brand/images/zoom-backgrounds/brandeis-zoom-background11.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+a {
+  color: #00B7FF;
+}
